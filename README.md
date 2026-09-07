@@ -1,6 +1,6 @@
 # Marcelo Léda
 
-**Desenvolvedor Backend .NET | C# | APIs REST | SQL Server | Arquitetura de Software**
+**Backend .NET | C# | APIs | Sistemas Distribuídos | Arquitetura de Software | Cloud**
 
 Sou profissional de tecnologia com experiência em análise e desenvolvimento de sistemas, atualmente focado em desenvolvimento backend com **C# e .NET**.
 
@@ -8,17 +8,11 @@ Tenho interesse em construir aplicações bem estruturadas, com código limpo, b
 
 Meu foco atual está no desenvolvimento de APIs, integração com bancos relacionais, uso de Entity Framework, aplicação de conceitos como DDD e CQRS, além do aprofundamento em arquitetura de software.
 
-## Principais interesses técnicos
+## Core stack
+C# / .NET / ASP.NET Core / SQL Server / EF Core / APIs REST / Docker
 
-- C# e .NET
-- APIs REST
-- SQL Server
-- Entity Framework
-- DDD
-- CQRS
-- Arquitetura de software
-- Testes automatizados
-- Boas práticas de desenvolvimento
+## arquitetura
+DDD / CQRS / Distributed Systems / Messaging / Observability / Cloud
 
 ## Sobre meus projetos
 
