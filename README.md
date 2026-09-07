@@ -11,7 +11,7 @@ Meu foco atual está no desenvolvimento de APIs, integração com bancos relacio
 ## Core stack
 C# / .NET / ASP.NET Core / SQL Server / EF Core / APIs REST / Docker
 
-## arquitetura
+## Arquitetura
 DDD / CQRS / Distributed Systems / Messaging / Observability / Cloud
 
 ## Sobre meus projetos
